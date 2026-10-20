@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zeeshan--aftab1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeeshan-aftab1/)
 [![GitHub followers](https://img.shields.io/github/followers/ZeeshanAftab001?style=for-the-badge&logo=github&label=Followers)](https://github.com/ZeeshanAftab001?tab=followers)
-![Profile Views](https://media.licdn.com/dms/image/v2/D4D03AQGlq140V4YIgw/profile-displayphoto-scale_200_200/B4DZ7uWGmqGYAc-/0/1782115234569?e=1793836800&v=beta&t=1oEIXK1-G8Ca0yJgpsa7XI_cd0UGNUph6u1fcZUAzBQ)
+
 
 </div>
 
